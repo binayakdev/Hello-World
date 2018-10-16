@@ -1,3 +1,4 @@
 # Hello-World
 
-#Random stuff
+This is a billing system that can
+handle transaction of a small scale.
